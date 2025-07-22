@@ -21,15 +21,14 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 - ☁️ Compétences solides en cloud (Azure, Databricks) et en traitement de données à grande échelle (Spark, SQL)
 - 🧪 Goût pour la modélisation, la visualisation, la pédagogie et la documentation claire
 
----
-## 🧰 Stack technique
 
-**Langages** : Python, SQL, R, VBA  
-**Big Data** : PySpark, Hadoop, Hive, Azure Databricks  
-**ML / IA** : Scikit-learn, XGBoost, Keras, NLP, Time Series  
-**Cloud** : Azure, GCP, Snowflake  
-**BI** : Power BI, Looker Studio  
-**MLOps / Dev** : MLflow, FastAPI, Docker, Git
+### 🔨 Stack technique :
+- **Langages** : Python, SQL, R, VBA  
+- **Big Data** : PySpark, Hive, Hadoop, Databricks  
+- **Cloud** : Azure, GCP, Snowflake  
+- **ML / IA** : scikit-learn, XGBoost, Keras, NLP  
+- **BI & Visualisation** : Power BI, Looker Studio, Streamlit  
+- **DevOps / MLOps** : FastAPI, MLflow, Docker
 ---
 
 ## 📌 Projets récents
