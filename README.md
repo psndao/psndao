@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Pape Semou Ndao
 
 🎓 Data Scientist | Statistiques & Big Data | Python • Azure • Databricks  
-📍 France | 💼 AXA | 🧠 Économie & Finance
+📍 France | 💼 AXA France| 🧠 Économie & Finance
 
 ---
 
@@ -34,10 +34,6 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 ## 📌 Projets récents
 
 🔹 **[Fast API ML Project](https://github.com/psndao/Fast_api_project)**  
-
-
- 
-
 
 🔹 **[Analyse de séries temporelles](https://github.com/psndao/serie_temporelle_analysis)**  
 
