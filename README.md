@@ -21,23 +21,20 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 - ☁️ Compétences solides en cloud (Azure, Databricks) et en traitement de données à grande échelle (Spark, SQL)
 - 🧪 Goût pour la modélisation, la visualisation, la pédagogie et la documentation claire
 
-### 🔨 Stack technique :
-- **Langages** : Python, SQL, R, VBA  
-- **Big Data** : PySpark, Hive, Hadoop, Databricks  
-- **Cloud** : Azure, GCP, Snowflake  
-- **ML / IA** : scikit-learn, XGBoost, Keras, NLP  
-- **BI & Visualisation** : Power BI, Looker Studio, Streamlit  
-- **DevOps / MLOps** : FastAPI, MLflow, Docker
+---
 
 ---
 
-## 💼 Projets à impact
+## 📌 Projets récents
 
-- 📉 **Churn Prediction Telco** – Pipeline ML complet avec FastAPI, Docker & MLflow  
-- 🛒 **Olist Data Warehouse** – Modélisation en étoile + ETL automatisé avec Airflow  
-- 🌦️ **AWS Weather Pipeline** – Ingestion temps réel avec Lambda, Glue, Iceberg  
-- 💬 **Analyse WhatsApp** – NLP + Dashboard Streamlit interactif  
-- 🏦 **Séries temporelles & Finance** – Prévisions économiques (ARIMA, Prophet)
+🔹 **[Fast API ML Project](https://github.com/psndao/Fast_api_project)**  
+
+
+🔹 **[Data Scientist Project](https://github.com/psndao/Data-scientist-project)**  
+
+
+🔹 **[Analyse de séries temporelles](https://github.com/psndao/serie_temporelle_analysis)**  
+
 
 ---
 
@@ -51,4 +48,4 @@ J’aime travailler sur des projets où **la donnée devient un outil concret de
 
 - [💼 LinkedIn](https://www.linkedin.com/in/papesemoundao/)
 - [📊 GitHub](https://github.com/psndao)
-- ✉️ Contact : ton@email.com
+- ✉️ Contact : papesemoundao2016@gmail.com
