@@ -22,7 +22,14 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 - 🧪 Goût pour la modélisation, la visualisation, la pédagogie et la documentation claire
 
 ---
+## 🧰 Stack technique
 
+**Langages** : Python, SQL, R, VBA  
+**Big Data** : PySpark, Hadoop, Hive, Azure Databricks  
+**ML / IA** : Scikit-learn, XGBoost, Keras, NLP, Time Series  
+**Cloud** : Azure, GCP, Snowflake  
+**BI** : Power BI, Looker Studio  
+**MLOps / Dev** : MLflow, FastAPI, Docker, Git
 ---
 
 ## 📌 Projets récents
