@@ -36,7 +36,7 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 🔹 **[Fast API ML Project](https://github.com/psndao/Fast_api_project)**  
 
 
-🔹 **[Data Scientist Project](https://github.com/psndao/Data-scientist-project)**  
+ 
 
 
 🔹 **[Analyse de séries temporelles](https://github.com/psndao/serie_temporelle_analysis)**  
