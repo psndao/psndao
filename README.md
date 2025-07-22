@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Un parcours hybride entre statistiques, finance et technologie
+## 🧠 Un parcours hybride entre statistiques, finance et technologie Data
 
 Formé en économie quantitative et statistiques appliquées, j’ai progressivement élargi mes compétences vers la **data science**, le **cloud computing** et les environnements **Big Data**.  
 Ce cheminement est le fruit d’une conviction forte : **les données ne sont pas seulement des chiffres**, elles sont un **levier stratégique puissant** lorsqu’elles sont bien exploitées, modélisées, et intégrées dans les systèmes décisionnels modernes.
