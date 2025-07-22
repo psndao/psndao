@@ -1,45 +1,54 @@
 # 👋 Bonjour, je suis Pape Semou Ndao
 
-🎓 Data Scientist spécialisé en Statistiques & Big Data  
-📊 Python • Azure • Databricks • Power BI  
-💼 AXA en France | 📍 Nanterre, Île-de-France  
-🚀 Passionné par l’impact des données sur la finance, l’économie et la société
+🎓 Data Scientist | Statistiques & Big Data | Python • Azure • Databricks  
+📍 France | 💼 AXA | 🧠 Économie & Finance
 
 ---
 
-## 🧰 Compétences techniques
+## 🧠 Un parcours hybride entre statistiques, finance et technologie
 
+Formé en économie quantitative et statistiques appliquées, j’ai progressivement élargi mes compétences vers la **data science**, le **cloud computing** et les environnements **Big Data**.  
+Ce cheminement est le fruit d’une conviction forte : **les données ne sont pas seulement des chiffres**, elles sont un **levier stratégique puissant** lorsqu’elles sont bien exploitées, modélisées, et intégrées dans les systèmes décisionnels modernes.
+
+Aujourd’hui, avec plusieurs années d’expérience dans l’analyse, la modélisation et la valorisation de données économiques et assurantielles, j’interviens **sur tout le cycle de vie de la donnée**, de l’exploration statistique à la mise en production de solutions ML ou BI.
+
+---
+
+## 🔧 Une approche complète, de la donnée brute à la décision
+
+Ma valeur ajoutée repose sur un profil « **full-stack data** » :
+- 📊 Maîtrise avancée des outils d’analyse statistique, d’économétrie et de machine learning
+- ☁️ Compétences solides en cloud (Azure, Databricks) et en traitement de données à grande échelle (Spark, SQL)
+- 🧪 Goût pour la modélisation, la visualisation, la pédagogie et la documentation claire
+
+### 🔨 Stack technique :
 - **Langages** : Python, SQL, R, VBA  
 - **Big Data** : PySpark, Hive, Hadoop, Databricks  
-- **ML / IA** : scikit-learn, XGBoost, NLP, séries temporelles  
 - **Cloud** : Azure, GCP, Snowflake  
-- **BI / Visualisation** : Power BI, Looker Studio  
-- **MLOps & Dev** : FastAPI, MLflow, Docker
+- **ML / IA** : scikit-learn, XGBoost, Keras, NLP  
+- **BI & Visualisation** : Power BI, Looker Studio, Streamlit  
+- **DevOps / MLOps** : FastAPI, MLflow, Docker
 
 ---
 
-## 📌 Projets en vedette
+## 💼 Projets à impact
 
-🔹 [Fast API Project](https://github.com/psndao/Fast_api_project)  
-_API de prédiction avec pipeline ML et déploiement rapide_
-
-🔹 [Data Scientist Project](https://github.com/psndao/Data-scientist-project)  
-_Modélisation statistique et analyse exploratoire_
-
-🔹 [Analyse séries temporelles](https://github.com/psndao/serie_temporelle_analysis)  
-_Modélisation ARIMA, Prophet et comparaison_
-
-🔹 [Spx_ML](https://github.com/psndao/Spx_Ml)  
-_Machine learning appliqué au marché financier_
+- 📉 **Churn Prediction Telco** – Pipeline ML complet avec FastAPI, Docker & MLflow  
+- 🛒 **Olist Data Warehouse** – Modélisation en étoile + ETL automatisé avec Airflow  
+- 🌦️ **AWS Weather Pipeline** – Ingestion temps réel avec Lambda, Glue, Iceberg  
+- 💬 **Analyse WhatsApp** – NLP + Dashboard Streamlit interactif  
+- 🏦 **Séries temporelles & Finance** – Prévisions économiques (ARIMA, Prophet)
 
 ---
 
-## 🔗 Me retrouver
+## 🌱 Ce qui m’anime
+
+J’aime travailler sur des projets où **la donnée devient un outil concret de décision, de transformation et d’impact**. Je m’investis dans des environnements collaboratifs où l’apprentissage continu, l’expérimentation et la rigueur sont valorisés.
+
+---
+
+## 📫 Me contacter
 
 - [💼 LinkedIn](https://www.linkedin.com/in/papesemoundao/)
 - [📊 GitHub](https://github.com/psndao)
-- ✉️ Contact : ton.email@example.com
-
----
-
-> “La donnée n’est utile que lorsqu’elle éclaire la décision.”
+- ✉️ Contact : ton@email.com
