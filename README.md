@@ -46,7 +46,7 @@ J’aime travailler sur des projets où **la donnée devient un outil concret de
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/papesemoundao/)
 - [GitHub](https://github.com/psndao)
