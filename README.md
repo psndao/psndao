@@ -33,9 +33,10 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 
 ## Projets récents
 
-🔹 **[Fast API ML Project](https://github.com/psndao/Fast_api_project)**  
+**[Fast API ML Project](https://github.com/psndao/Fast_api_project)**  
 
-🔹 **[Analyse de séries temporelles](https://github.com/psndao/serie_temporelle_analysis)**  
+**[Analyse de séries temporelles](https://github.com/psndao/serie_temporelle_analysis)**  
+**[Pipeline Azure](https://github.com/psndao/azure-pipeline-terraform)**
 
 
 ---
