@@ -1,7 +1,6 @@
 # Bonjour, je suis Pape Semou Ndao
 
-Data Scientist | Statistiques & Big Data | Python • Azure • Databricks  
-France | AXA France| Économie & Finance
+Data Analytics Engineer | Python | SQL | BI
 
 ---
 
