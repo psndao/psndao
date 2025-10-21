@@ -14,13 +14,12 @@
 
 ---
 
-💡 Passionné par la **Data Science**, le **Machine Learning** et le **développement d’outils intelligents**.  
-J’aime apprendre, expérimenter et partager mes découvertes.
+
 
 
 ---
 
-## Un parcours hybride entre statistiques, finance et technologie Data
+## Un parcours hybride entre statistiques, Assurance et technologie Data
 
 Formé en économie quantitative et statistiques appliquées, j’ai progressivement élargi mes compétences vers la **data science**, le **cloud computing** et les environnements **Big Data**.  
 Ce cheminement est le fruit d’une conviction forte : **les données ne sont pas seulement des chiffres**, elles sont un **levier stratégique puissant** lorsqu’elles sont bien exploitées, modélisées, et intégrées dans les systèmes décisionnels modernes.
