@@ -33,15 +33,6 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 
 ---
 
-### Stack technique :
-- **Langages** : Python, SAS, SQL, R, VBA  
-- **Big Data** : PySpark, Hive, Hadoop, Databricks  
-- **Cloud** : Azure, GCP, AWS
-- **ML / IA** : scikit-learn, XGBoost, Keras, NLP  
-- **BI & Visualisation** : Power BI, Tableau , Streamlit, Dash
-- **DevOps / MLOps** : FastAPI, MLflow, Docker
-
-
 ### Compétences et technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
