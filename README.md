@@ -40,6 +40,25 @@ Ma valeur ajoutée repose sur un profil « **full-stack data** » :
 - **ML / IA** : scikit-learn, XGBoost, Keras, NLP  
 - **BI & Visualisation** : Power BI, Tableau , Streamlit, Dash
 - **DevOps / MLOps** : FastAPI, MLflow, Docker
+
+
+### Compétences et technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat"/>
+  <img src="https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat"/>
+</p>
+
 ---
 
 ## Projets récents
