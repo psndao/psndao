@@ -73,3 +73,24 @@ J’aime travailler sur des projets où **la donnée devient un outil concret de
 - [LinkedIn](https://www.linkedin.com/in/papesemoundao/)
 - [GitHub](https://github.com/psndao)
 - Contact : papesemoundao2016@gmail.com
+
+
+### Me contacter
+<p align="left">
+  <a href="https://www.linkedin.com/in/papesemoundao" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="https://github.com/psndao" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  </a>
+  <a href="https://papesemoundao.com" target="_blank">
+    <img alt="Site web" src="https://img.shields.io/badge/Website-000000?logo=aboutdotme&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:papesemoundao2016@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
+  <a href="https://medium.com/@papesemoundao" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat" />
+  </a>
+</p>
+
