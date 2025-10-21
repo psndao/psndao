@@ -9,15 +9,11 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psndao)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papesemoundao2016@gmail.com)
 [![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://papesemoundao.com)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@papesemoundao)
-
-
----
-
 
 
 
 ---
+
 
 ## Un parcours hybride entre statistiques, Assurance et technologie Data
 
