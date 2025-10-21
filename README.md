@@ -68,13 +68,6 @@ J’aime travailler sur des projets où **la donnée devient un outil concret de
 
 ---
 
-## Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/papesemoundao/)
-- [GitHub](https://github.com/psndao)
-- Contact : papesemoundao2016@gmail.com
-
-
 ### Me contacter
 <p align="left">
   <a href="https://www.linkedin.com/in/papesemoundao" target="_blank">
